@@ -1,0 +1,58 @@
+body {VISIBILITY:hidden;BACKGROUND-IMAGE:url(bg.jpg);OVERFLOW:hidden}
+#tab1, #tab2, #tab3, #tab4, #tab5 {POSITION:absolute;VISIBILITY:hidden;Z-INDEX:1}
+#main{POSITION:absolute;BACKGROUND-IMAGE:url(main.jpg);WIDTH:740;HEIGHT:565}
+img {POSITION:absolute}
+img.h {VISIBILITY:hidden}
+img.marka {HEIGHT:27;WIDTH:35}
+img.t{POSITION:static;BORDER-COLOR:white;CURSOR:pointer}
+#filtr{TOP:0;LEFT:0;FILTER:alpha(opacity=75);Z-INDEX:2;VISIBILITY:hidden}
+#light{VISIBILITY:hidden;Z-INDEX:3}
+a:link{COLOR:#FFFFFF} 
+a:active{COLOR:#FFFFFF} 
+a:visited{COLOR:#FFFFFF} 
+a:hover{COLOR:#0000FF}
+a.tab:link {FONT-FAMILY:"Verdana";FONT-SIZE: 11px; COLOR: #000000; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1px} 
+a.tab:active {FONT-FAMILY:"Verdana";FONT-SIZE:11px; COLOR: #000000; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1px} 
+a.tab:visited{FONT-FAMILY:"Verdana";FONT-SIZE:11px; COLOR: #000000; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1px} 
+a.tab:hover {FONT-FAMILY:"Verdana";FONT-SIZE: 11px; COLOR: #0000FF; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTEr-SPACING:-1px}
+div {FONT-FAMILY:"Courier","Verdana";FONT-SIZE: 14px; COLOR: #FFFFFF;TEXT-ALIGN:"justify"}
+iframe#txt{POSITION:absolute;HEIGHT:333;OVERFLOW:hidden}
+#compliment,#message,#wait,#yandex,#mailru,#openst,#kontakt,#rambler{POSITION:absolute;LEFT:0;TOP:570}
+div.divik,div.l{POSITION:absolute;FONT-SIZE:17px; COLOR:#000000}
+#mainik,#essik{LEFT:4px;CURSOR:pointer}
+#mn{LEFT:39px}
+#internetik,#holidik,#reclamik,#masmedik,#stylik{LEFT:42px}
+#ntrnt,#hld,#rclm,#msmd,#stl{LEFT:77px}
+#ss{LEFT:39px}
+#node1,#node2,#node3,#node4,#node5{LEFT:11px;CURSOR:pointer}
+#lv1,#lv2,#lv3,#lv4,#lv5,#lv6{WIDTH:1px;HEIGHT:18px;LEFT:20px}
+#lh1,#lh2,#lh3,#lh4,#lh5{WIDTH:12px;HEIGHT:1px;LEFT:30px}
+#node6,#node7,#node8,#node9,#node10{LEFT:49px;CURSOR:pointer;VISIBILITY:hidden}
+#list1,#list2,#list3,#list4,#list5{LEFT:78px;VISIBILITY:hidden}
+#lv7,#lv8,#lv9,#lv10,#lv11{WIDTH:1px;HEIGHT:18px;LEFT:58px;VISIBILITY:hidden}
+#lh6,#lh7,#lh8,#lh9,#lh10{WIDTH:12px;HEIGHT:1px;LEFT:68px;VISIBILITY:hidden}
+table.tabik{POSITION:absolute;LEFT:102px;VISIBILITY:hidden}
+A.tabik:link {FONT-FAMILY:"Verdana";FONT-SIZE: 9px; COLOR: #000000; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1.2px} 
+A.tabik:active {FONT-FAMILY:"Verdana";FONT-SIZE: 9px; COLOR: #000000; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1.2px} 
+A.tabik:visited{FONT-FAMILY:"Verdana";FONT-SIZE: 9px; COLOR: #000000; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1.2px} 
+A.tabik:hover {FONT-FAMILY:"Verdana";FONT-SIZE: 9px; COLOR: #0000FF; LINE-HEIGHT:9px; TEXT-DECORATION: none;LETTER-SPACING:-1.2px}
+input{POSITION:absolute;HEIGHT:25;WIDTH:137;BACKGROUND-COLOR:#404050;COLOR:white} 
+#message{TOP:200;LEFT:0;HEIGHT:95;WIDTH:360;BACKGROUND-COLOR:#404050;COLOR:white}
+div.l{WIDTH:100;HEIGHT:20;COLOR:white}
+#name{TOP:80;LEFT:20}
+#mail{TOP:80;LEFT:200}
+#phone{TOP:140;LEFT:20}
+#tema{TOP:140;LEFT:200}
+#reset{TOP:305;LEFT:20}
+#send{TOP:305;LEFT:200}
+#l0{TOP:60;LEFT:20}
+#l1{TOP:60;LEFT:200}
+#l2{TOP:120;LEFT:20}
+#l3{TOP:120;LEFT:200} 
+#l6{TOP:180;LEFT:20}
+#wait{HEIGHT:200;WIDTH:200;Z-INDEX:3;VISIBILITY:hidden} 
+#yandex{LEFT:300;TOP:577}
+#mailru{LEFT:406;TOP:570}
+#openst{LEFT:514;TOP:577}
+#rambler{LEFT:624;TOP:577}
+#kontakt{LEFT:735;TOP:583}
